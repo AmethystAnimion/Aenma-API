@@ -69,6 +69,10 @@ const Jokes = [
       'Q: There were 10 cats in a boat and one jumped out. How many were left?',
       'A: None, because they were all a bunch of copycats.'
     ]
+  ],['A LOVE OF BIBLICAL PROPORTIONS', [
+      'Q. Did Adam and Eve ever have a date?',
+      'A. No, they had an apple!'
+    ]
   ]
 ];
 
