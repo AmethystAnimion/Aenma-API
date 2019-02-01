@@ -1,15 +1,31 @@
 const Jokes = [
-  ['Shiny Diamond',
-   'Student: I want to shine like a diamond!\nAlbert Einstein: Diamonds do not shine, they reflect, idiot.'],
-  ['Great Wall of China',
-   'Student: Does that great wall of China really visible from space?\nAstronaut: Only their recycling factories are visible from empty space.'],
-  ['The Chemical Formula',
-   'A teacher said to a student, "Go to the board and write the chemical formula of Water."\n\nThe student writes "HIJKLMNO".\n\nThe teacher tells him that he is wrong.\nThe student replies, "But Madam, you told us that it was H to O!'],
-  ['Spelling Error',
-   'A teacher said to a student, "Go to the board and show me how you spell `CROCODILE`."\n\nThe student writes "KROKODIAL".\n\nThe teacher tells him that he is wrong.\nThe student replies, "Madam, it maybe wrong, but you told me to show you how I spell it".'],
-  ['How to Poop in Toilet for A Year',
-   '`1.` Enter the toilet on 23:59, 31 Desember.\n`2.` Poop.\n`3.` Leave the toilet on 00:10, 1 January.\n\nCongrats! You\'ve spending a year on toilet!'],
-  ['ETC',
+    ['Shiny Diamond', [
+      'Student: I want to shine like a diamond!',
+      'Albert Einstein: Diamonds do not shine, they reflect, idiot.'
+    ]
+  ],['Great Wall of China', [
+      'Student: Does that great wall of China really visible from space?',
+      'Astronaut: Only their recycling factories are visible from empty space.'
+    ]
+  ],['The Chemical Formula', [
+      'A teacher said to a student, "Go to the board and write the chemical formula of Water."',
+      'The student writes "HIJKLMNO".',
+      'The teacher tells him that he is wrong.',
+      'The student replies, "But Madam, you told us that it was H to O!'
+    ]
+  ],['Spelling Error',
+      'A teacher said to a student, "Go to the board and show me how you spell `CROCODILE`."',
+      'The student writes "KROKODIAL".',
+      'The teacher tells him that he is wrong.',
+      'The student replies, "Madam, it maybe wrong, but you told me to show you how I spell it".'
+    ]
+  ],['How to Poop in Toilet for A Year', [
+      '`1.` Enter the toilet on 23:59, 31 Desember.',
+      '`2.` Poop.',
+      '`3.` Leave the toilet on 00:10, 1 January.',
+      'Congrats! You\'ve spending a year on toilet!'
+    ]
+  ],['ETC',
    'Q) Why we write etc. at the end in the exam?\n\nA) Because, it means:\n\t**E**: End of\n\t**T**: Thinking\n\t**C**: Capacity'],
   ['Breaking Up 1',
    'Girlfriend: I am breaking up with you.\nBoyfriend: Okay.\nGirlfriend: You will not get another one like me anywhere.\nBoyfriend: Thank God.'],
