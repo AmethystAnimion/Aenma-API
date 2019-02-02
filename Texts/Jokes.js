@@ -13,7 +13,7 @@ const Jokes = [
       'The teacher tells him that he is wrong.',
       'The student replies, "But Madam, you told us that it was H to O!'
     ]
-  ],['Spelling Error',
+  ],['Spelling Error', [
       'A teacher said to a student, "Go to the board and show me how you spell `CROCODILE`."',
       'The student writes "KROKODIAL".',
       'The teacher tells him that he is wrong.',
