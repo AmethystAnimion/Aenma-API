@@ -1,0 +1,13 @@
+{
+  "name": "api-db",
+  "version": "0.0.1",
+  "description": "A API-DB by Aenma",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "license": "GNU AGPL v3.0"
+}
