@@ -1,5 +1,5 @@
 {
-  "name": "api-db",
+  "name": "aenma-apidb",
   "version": "0.0.1",
   "description": "A API-DB by Aenma",
   "main": "Codes/Bot/index.js",
