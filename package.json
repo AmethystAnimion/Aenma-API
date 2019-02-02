@@ -2,10 +2,7 @@
   "name": "api-db",
   "version": "0.0.1",
   "description": "A API-DB by Aenma",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "main": "Codes/Bot/index.js",
   "engines": {
     "node": "10.x"
   },
