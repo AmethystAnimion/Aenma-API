@@ -1,6 +1,6 @@
 {
   "name": "aenma-apidb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A API-DB by Aenma",
   "main": "Codes/Bot/index.js",
   "engines": {
