@@ -17,7 +17,7 @@ const Jokes = [
       'A teacher said to a student, "Go to the board and show me how you spell `CROCODILE`."',
       'The student writes "KROKODIAL".',
       'The teacher tells him that he is wrong.',
-      'The student replies, "Madam, it maybe wrong, but you told me to show you how I spell it".'
+      'The student replies, "Madam, it may be wrong, but you told me to show you how I spell it".'
     ]
   ],['How to Poop in Toilet for A Year', [
       '`1.` Enter the toilet on 23:59, 31 Desember.',
@@ -72,6 +72,42 @@ const Jokes = [
   ],['A LOVE OF BIBLICAL PROPORTIONS', [
       'Q. Did Adam and Eve ever have a date?',
       'A. No, they had an apple!'
+    ]
+  ],['High or Tall', [
+      'He : I\'m high!',
+      'Me : .......',
+      'Me : (thinking) He\'s tall'
+    ]
+  ],['Discord FBI', [
+      'Someone : Discord isn’t good for me',
+      'Me : *Calls Discord FBI*',
+      'Discord FBI: *bans someone*'
+    ]
+  ],['CAPSLOCK', [
+      'Mee6 : HEY YOU SEND MANY CAPS LOCK IN YOUR MESSAGES!',
+      'Me : But your using caps on dms mee6.....I will call your owner to offline you....',
+      'Mee6: NO',
+      'Owner: *offlines mee6*'
+    ]
+  ],['Clapped Ass', [
+      'If our ass was split horizontally, it would clap when we run down from stairs.',
+      'But it\'s splitted vertically'
+    ]
+  ],['Discord FBI Pt. 1', [
+      'Me : Boo I hate discord bots',
+      'Discord FBI Members : GET HIM!',
+      'Me : AHHHHH',
+      '*Game Over*'
+    ]
+  ],['Discord FBI Pt. 2', [
+      'New Member : wat iz diskord?',
+      'Me : Discord is gaming chat.',
+      'New Member : boo me didnt ask u',
+      'Me : ....Who?',
+      'New Member : i will call fbi on u',
+      'Me : NO!',
+      'Fbi : FBI OPEN UP',
+      '**GAME OVER AGAIN**',
     ]
   ]
 ];
