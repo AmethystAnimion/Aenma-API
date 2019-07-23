@@ -1,5 +1,3 @@
-
-
 const Roast = [
   "You are like a dumpster, you are big, and full of trash.",
   "I changed my background picture to you, so that if I have to close my tabs, I know I have miserably failed.",
