@@ -1,3 +1,10 @@
-const A = 65;
-
-// Base Code
+module.exports = {
+  // Text
+  Joke: "",
+  Roast: "",
+  
+  // Image
+  Meme: "",
+  ProgrammingMeme: "",
+  SpongeBobMeme: ""
+};
