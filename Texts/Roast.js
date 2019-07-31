@@ -183,3 +183,5 @@ const Roast = [
   "I love the sound you make when you shut up.",
   "I don’t remember asking for your opinion."
 ];
+
+module.exports = Roast;
